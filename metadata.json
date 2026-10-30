@@ -1,0 +1,6 @@
+{
+  "name": "Retail Master",
+  "description": "Comprehensive retail shop management system with POS, inventory, customer credit, supplier tracking, expenses, and financial profit and loss analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
